@@ -7,8 +7,10 @@ Adding_products.ipynb - In this file first  read the data from "record.json" fil
 
 Purchasing_products.ipynb - In this file first we read the data from "record.json" file. Then if anyone buy some products it will generate bill. Then update the inventory and store the data of sales in "sale.json" file.
 # Who am I?
-My name is souvik Debnath. I am a intern of python for ML/AI at ETG. Also I am a Web Developer. I made many web sites. I am a coding enthusiastic and loved to explore new technology.
+My name is souvik Debnath.I am 3rd year engineering student of Netaji Subhash Engineering College. I am a intern of python for ML/AI at ETG. Also I am a Web Developer. I made many web sites. I am a coding enthusiastic and loved to explore new technology.
 # Other Useful Links
 Linkedin - https://www.linkedin.com/in/souvik-debnath-986214191/
+
 Facebook - https://www.facebook.com/souvik.debnath.767
+
 Instagram - https://www.instagram.com/cr7_d_souvik/
